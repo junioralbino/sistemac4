@@ -1,0 +1,587 @@
+CRITICAL - 2022-02-13 07:55:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/junior/Área de Trabalho/c4/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/junior/Área de Trabalho/c4/spark(45): require('/home/junior/\xC3\x81...')
+#4 {main}
+CRITICAL - 2022-02-13 08:00:07 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/junior/Área de Trabalho/c4/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/junior/Área de Trabalho/c4/spark(45): require('/home/junior/\xC3\x81...')
+#4 {main}
+CRITICAL - 2022-02-13 08:01:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/junior/Área de Trabalho/c4/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/junior/Área de Trabalho/c4/spark(45): require('/home/junior/\xC3\x81...')
+#4 {main}
+ERROR - 2022-02-13 06:12:25 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-02-13 07:13:20 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:13:27 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:13:49 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:13:50 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:14:57 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:15:44 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:15:45 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:15:58 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 07:16:03 --> Argument 2 passed to view() must be of the type array, string given, called in /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php on line 13
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(13): view()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 08:32:31 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:33:25 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:33:26 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:33:27 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:33:27 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:36:58 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:36:59 --> Class 'App\Model\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:37:27 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:37:28 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:38:08 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:38:09 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:38:53 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:39:05 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:40:27 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:40:28 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:43:15 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:43:16 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:43:17 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:44:01 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:44:01 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:44:02 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:44:02 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:44:03 --> Class 'App\Models\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 08:51:17 --> Call to undefined method App\Models\ProdutoModel::fisrt
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(45): CodeIgniter\Model->__call()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 08:51:41 --> Call to undefined method App\Models\ProdutoModel::fisrt
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(45): CodeIgniter\Model->__call()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 08:51:42 --> Call to undefined method App\Models\ProdutoModel::fisrt
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(45): CodeIgniter\Model->__call()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 08:53:18 --> Call to undefined method App\Models\ProdutoModel::fisrt
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(45): CodeIgniter\Model->__call()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 08:53:46 --> Call to undefined method App\Models\ProdutoModel::fisrt
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(45): CodeIgniter\Model->__call()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 08:53:47 --> Call to undefined method App\Models\ProdutoModel::fisrt
+#0 /home/junior/Área de Trabalho/c4/app/Controllers/Produtos.php(45): CodeIgniter\Model->__call()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->model()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#6 {main}
+CRITICAL - 2022-02-13 09:44:13 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:44:55 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:45:24 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:49:46 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:51:35 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:54:03 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:54:04 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:54:05 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:54:18 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 09:54:31 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:06:49 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:06:53 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:08:32 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:08:43 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:10:03 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:17:45 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:23:56 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Produtos->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:24:58 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:25:53 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:30:01 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:30:02 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:39:40 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:40:03 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:40:08 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:47:10 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:52:20 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:52:37 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:53:33 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:54:15 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:55:25 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:55:26 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:59:09 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:59:10 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:59:11 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:59:11 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 10:59:11 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 11:05:27 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 11:05:29 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 11:07:51 --> Class 'App\Controllers\ProdutoModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 11:10:32 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
+CRITICAL - 2022-02-13 11:13:23 --> Class 'App\Models\ClienteModel' not found
+#0 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(825): App\Controllers\Clientes->index()
+#1 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/junior/Área de Trabalho/c4/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/junior/Área de Trabalho/c4/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/junior/Área de Trabalho/c4/system/Commands/Server/rewrite.php(43): require_once('/home/junior/\xC3\x81...')
+#5 {main}
